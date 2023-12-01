@@ -1,8 +1,10 @@
 ### Project: Pannypal Telegram Bot
 
+
 - **Telegram Username:** [@mati_bonda_bot](https://t.me/mati_bonda_bot)
 - **Tech Stack:** TypeScript, Node.js, Grammy, Axios
 - **Source Code:** [GitHub Repository](https://github.com/Betsegaw-hp/punnypal)
+
 
 #### Overview:
 
@@ -21,6 +23,7 @@
 3. **Meme Generator:**
    - **Usage:** `/meme [your text]`
    - Generate personalized memes by adding your own text. Pannypal delivers a unique and shareable image in response.
+
 
 4. **Filtered Jokes, Advice, and Memes:**
    - **Usage:**
@@ -50,10 +53,8 @@
 
 #### Try Pannypal Today:
 
+
 Start interacting with Pannypal by adding [@mati_bonda_bot](https://t.me/mati_bonda_bot) to your Telegram contacts. Whether you're seeking advice, a good laugh, or a personalized meme, Pannypal has got you covered.
 
 Explore the world of Pannypal and let the bot add a touch of wisdom, humor, and creativity to your Telegram conversations!
 
-#### Source Code:
-
-Check out the [source code on GitHub](https://github.com/Betsegaw-hp/punnypal) to explore the inner workings of Pannypal and consider contributing to its development!
