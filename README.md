@@ -1,7 +1,10 @@
 ### Project: Pannypal Telegram Bot
 
-- **Telegram Username:** @pannypal_bot
+
+- **Telegram Username:** [@mati_bonda_bot](https://t.me/mati_bonda_bot)
 - **Tech Stack:** TypeScript, Node.js, Grammy, Axios
+- **Source Code:** [GitHub Repository](https://github.com/Betsegaw-hp/punnypal)
+
 
 #### Overview:
 
@@ -21,6 +24,23 @@
    - **Usage:** `/meme [your text]`
    - Generate personalized memes by adding your own text. Pannypal delivers a unique and shareable image in response.
 
+
+4. **Filtered Jokes, Advice, and Memes:**
+   - **Usage:**
+     - `/joke [text] - Get a filtered joke by text`
+     - `/advice - Get a filtered advice`
+     - `/meme [text] - Get a random meme with a text`
+
+5. **Help Menu:**
+   - **Usage:** `/help`
+   - Display a menu of available commands:
+     - `/joke - Get a random joke`
+     - `/advice - Get a random advice`
+     - `/joke [text] - Get a filtered joke by text`
+     - `/advice [text] - Get a filtered advice`
+     - `/meme [text] - Get a random meme with a text`
+     - `/help - Show this help menu`
+
 #### Technology Stack:
 
 - **TypeScript:** Enhances code maintainability and provides a statically-typed environment for robust development.
@@ -33,6 +53,8 @@
 
 #### Try Pannypal Today:
 
-Start interacting with Pannypal by adding [@pannypal_bot](https://t.me/pannypal_bot) to your Telegram contacts. Whether you're seeking advice, a good laugh, or a personalized meme, Pannypal has got you covered.
+
+Start interacting with Pannypal by adding [@mati_bonda_bot](https://t.me/mati_bonda_bot) to your Telegram contacts. Whether you're seeking advice, a good laugh, or a personalized meme, Pannypal has got you covered.
 
 Explore the world of Pannypal and let the bot add a touch of wisdom, humor, and creativity to your Telegram conversations!
+
